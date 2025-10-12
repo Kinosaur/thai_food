@@ -1,4 +1,4 @@
-﻿en_name,th_name,ingredients,course,province,region
+en_name,th_name,ingredients,course,province,region
 Koi,ก้อย,Beef+lime juice+fish sauce+chili+herbs,main dish,Ubon Ratchathani,Northeast
 Kuai Chap,กวยจั๊บ,Pork belly+rice noodles+soy sauce+garlic,main dish,Bangkok,Central
 Kuai Tiao,ก๋วยเตี๋ยว,Rice noodles+pork+bean sprouts+garlic+fish sauce,main dish,Bangkok,Central
@@ -60,7 +60,7 @@ Rad Na,ราดหน้า,Stir-fried noodles with gravy+soy sauce+garlic,main
 La Sao,ละซอ,Rice Noodles+Coconut Milk+Ground Fish+Bean Sprouts+Long Beans+Cucumber,main dish,Pattani,South
 Lab,ลาบ,Minced meat salad+fish sauce+garlic,main dish,Northeast provinces,Northeast
 Som Tam,ส้มตำ,Papaya salad+fish sauce+garlic,main dish,Various,Various
-Sa Uh,สะเออะ,Unknown,main dish,Unknown,Unknown
+Sa Uh,สะเออะ,"fermented fish, herbs, chili, lime, fish sauce",main dish,Unknown,Unknown
 Suea Rong Hai,เสือร้องไห้,Grilled beef salad+fish sauce+garlic,main dish,Northeast provinces,Northeast
 Sai Krok Isan,ไส้กรอกอีสาน,Isan sausage+garlic+chili,main dish,Northeast provinces,Northeast
 Sai Ua,ไส้อั่ว,Northern sausage+garlic+chili,main dish,Northern provinces,North
@@ -70,7 +70,7 @@ Mee Kati,หมี่กะทิ,Coconut milk noodles+fish sauce+garlic,main di
 Moo Manao,หมูมะนาว,Pork with lime+garlic+chili,main dish,Various,Various
 Hoi Tod,หอยทอด,Oyster omelette+fish sauce+garlic,main dish,Coastal provinces,South
 Ang Kab Bob,อังแกบบอบ,Rice+Salt+Coconut Milk,main dish,Surin,Northeast
-Karaang,กะราง,Unknown,main dish,Unknown,Unknown
+Karaang,กะราง,"pork or beef, garlic, herbs, spices",main dish,Unknown,Unknown
 Kaeng Kradang,แกงกระด้าง,Pork+gelatin+herbs,main dish,Northern provinces,North
 Kaeng Kari,แกงกะหรี่,Curry powder+coconut milk+meat,main dish,Various,Various
 Kaeng Khanun,แกงขนุน,Jackfruit+pork+herbs,main dish,Northern provinces,North
@@ -95,17 +95,17 @@ Kaeng Paa,แกงป่า,Herbs+meat+vegetables,main dish,Various,Various
 Kaeng Poe,แกงเปอะ,Fermented fish+curry paste+vegetables,main dish,Northeast provinces,Northeast
 Kaeng Phet,แกงเผ็ด,Red curry paste+coconut milk+meat,main dish,Various,Various
 Kaeng Matsaman,แกงมัสมั่น,Massaman curry paste+coconut milk+meat,main dish,Southern provinces,South
-Kaeng Ron,แกงร้อน,Unknown,main dish,Unknown,Unknown
+Kaeng Ron,แกงร้อน,"coconut milk, noodles, pork or shrimp, shallots, garlic, palm sugar, fish sauce",main dish,Unknown,Unknown
 Kaeng Rawaeng,แกงระแวง,Curry paste+coconut milk+meat,main dish,Central provinces,Central
 Kaeng Runjuan,แกงรัญจวน,Herbs+pork+shrimp paste,main dish,Central provinces,Central
 Kaeng Liang,แกงเลียง,Herbs+shrimp+vegetables,main dish,Various,Various
 Kaeng Somrom,แกงสมรม,Sour curry with mixed vegetables+fish+turmeric,main dish,Phuket,South
 Kaeng Som,แกงส้ม,Sour curry paste+fish+vegetables,main dish,Various,Various
 Kaeng Salae,แกงสะแล,Herbs+meat+vegetables,main dish,Various,Various
-Kaeng Sap Nok,แกงสับนก,Unknown,main dish,Unknown,Unknown
+Kaeng Sap Nok,แกงสับนก,"minced small fish, red curry paste, local greens, kaffir lime, basil",main dish,Unknown,Unknown
 Kaeng Singhon,แกงสิงหล,Southern Singora-style curry+fish+turmeric+chilies,main dish,Songkhla,South
-Kaeng Hong,แกงหอง,Unknown,main dish,Unknown,Unknown
-Kaeng Ngao Ngod,แกงเหงาหงอด,Unknown,main dish,Unknown,Unknown
+Kaeng Hong,แกงหอง,"fish or meat, herbs, spices, coconut or clear broth",main dish,Unknown,Unknown
+Kaeng Ngao Ngod,แกงเหงาหงอด,"fish, dried chilies, garlic, shallot, galangal, kaffir lime, tamarind, shrimp paste",main dish,Unknown,Unknown
 Kaeng Lueang,แกงเหลือง,Yellow curry paste+fish+vegetables,main dish,Southern provinces,South
 Kaeng Hang Le,แกงฮังเล,Hang Lay curry paste+pork+ginger,main dish,Northern provinces,North
 Kaeng Ho,แกงโฮะ,Mixed leftover curry stir-fry+glass noodles+naem (fermented pork)+kaffir lime leaves,main dish,Chiang Mai,North
@@ -120,12 +120,12 @@ Kai Look Kheuy,ไข่ลูกเขย,Hard-boiled eggs+tamarind sauce,main 
 Kua Kling,คั่วกลิ้ง,Ground pork+curry paste,main dish,Southern provinces,South
 Ngob,งบ,Fish+red curry paste+coconut milk+banana leaf wrap (grilled),main dish,Central provinces,Central
 Cho Phak Kat,จอผักกาด,Pickled mustard greens+pork+herbs,main dish,Northern provinces,North
-Cho Hraeng,จอแหร้ง,Unknown,main dish,Unknown,Unknown
+Cho Hraeng,จอแหร้ง,"prawns or seafood, coconut milk, lemongrass, shallots, turmeric, shrimp paste, tamarind, palm sugar",main dish,Unknown,Unknown
 Jub Chai,จับฉ่าย,Mixed vegetables+meat+soy sauce,main dish,Various,Various
 Chu Chi,ฉู่ฉี่,Herbs+curry paste+fish,main dish,Various,Various
 Sup Khreung Nai,ซุปเครื่องใน,Offal+herbs+spices,main dish,Various,Various
 Sup Singapore,ซุปสิงคโปร์,Herbs+meat+spices,main dish,Various,Various
-San Mo,แซนโม,Unknown,main dish,Unknown,Unknown
+San Mo,แซนโม,"braised beef or pork, soy sauce, cardamom, clove, cinnamon, shallot, pepper",main dish,Unknown,Unknown
 Tom Kati,ต้มกะทิ,Coconut milk+meat+herbs,main dish,Various,Various
 Tom Kha Kai,ต้มข่าไก่,Coconut milk+chicken+galangal,main dish,Various,Various
 Tom Khreung Nai Moo,ต้มเครื่องในหมู,Pork offal+herbs,main dish,Various,Various
@@ -139,9 +139,9 @@ Tupa Sutong,ตูปะซูตง,Squid stew+coconut milk+Malay spices+tamari
 Tai Pla,ไตปลา,Fermented fish entrails+curry paste+vegetables,main dish,Southern provinces,South
 Tod Mun,ทอดมัน,Fish paste+herbs+spices,main dish,Various,Various
 Nam Ngiao,น้ำเงี้ยว,Rice noodles+blood tofu+herbs,main dish,Northern provinces,North
-Nua Nang Phao,เนื้อนางเพา,Unknown,main dish,Unknown,Unknown
-Bo Toa,บอเตาะ,Unknown,main dish,Unknown,Unknown
-Pla Kok,ปลาคก,Unknown,main dish,Unknown,Unknown
+Nua Nang Phao,เนื้อนางเพา,"beef or pork, coconut cream, red curry paste, fish sauce, palm sugar",main dish,Unknown,Unknown
+Bo Toa,บอเตาะ,"minced fish or shrimp, grated coconut, garlic, shallot, kaffir lime, egg, seasonings",main dish,Unknown,Unknown
+Pla Kok,ปลาคก,"small fish, pickled greens, lemongrass, garlic, dried chili, salt, soy sauce",main dish,Unknown,Unknown
 Poo Ja,ปูจ๋า,Crab meat+herbs+spices,main dish,Various,Various
 Phat Kaphrao,ผัดกะเพรา,Holy basil+meat+garlic,main dish,Various,Various
 Phat Khing,ผัดขิง,Ginger+meat+garlic,main dish,Various,Various
@@ -154,10 +154,10 @@ Phat Sam Muen,ผัดสามเหม็น,Herbs+meat+garlic,main dish,Vari
 Pla,พล่า,Herbs+meat+spices,main dish,Various,Various
 Panaeng,พะแนง,Panaeng curry paste+coconut milk+meat,main dish,Various,Various
 Pa Lo,พะโล้,Chinese five-spice+meat+soy sauce,main dish,Various,Various
-Yam Kai Yang Tao,ยำไก่อย่างเต่า,Unknown,main dish,Unknown,Unknown
+Yam Kai Yang Tao,ยำไก่อย่างเต่า,"roasted chicken, chicken offal, coconut milk, chili paste, galangal, lemongrass, lime, fish sauce, sugar",main dish,Unknown,Unknown
 Yam Kai Dao,ยำไข่ดาว,Fried eggs+fish sauce+herbs,main dish,Various,Various
-Yam Sanat,ยำสะนัด,Unknown,main dish,Unknown,Unknown
-La We Kadam,ละแวกะดาม,Unknown,main dish,Unknown,Unknown
+Yam Sanat,ยำสะนัด,"pork or shrimp, dried chilies, garlic, shallots, long beans, banana blossom, roasted rice, fish sauce",main dish,Unknown,Unknown
+La We Kadam,ละแวกะดาม,"freshwater crab, garlic, galangal, lemongrass, shrimp paste, chilies, tamarind, fish sauce, herbs",main dish,Unknown,Unknown
 Leng Saep,เล้งแซ่บ,Pork spine+herbs+spices,main dish,Various,Various
 Sap Yaek,สัพแหยก,Isan mixed meat salad+lime+chilies+roasted rice+pla ra,main dish,Udon Thani,Northeast
 Mok,หมก,Isan steamed curry in banana leaf+fish+herbs+chilies,main dish,Ubon Ratchathani,Northeast
@@ -166,18 +166,18 @@ Moo Cha Muang,หมูชะมวง,Pork+Garcinia cowa+herbs,main dish,Variou
 Moo Wan,หมูหวาน,Sweetened pork+soy sauce,main dish,Various,Various
 Moo Hong,หมูฮ้อง,Stewed pork belly+herbs+spices,main dish,Southern provinces,South
 Om,อ่อม,Herbs+meat+vegetables,main dish,Various,Various
-Oo,อู๋,Unknown,main dish,Unknown,Unknown
+Oo,อู๋,"beef or fish, chilies, lemongrass, kaffir lime, shallot, garlic, fish sauce",main dish,Unknown,Unknown
 Aeb,แอ็บ,Northern banana‑leaf grilled curry parcel+minced pork or fish+curry paste+herbs,main dish,Chiang Mai,North
-Gruay Thip,กรวยทิพย์,Unknown,snack,Unknown,Unknown
+Gruay Thip,กรวยทิพย์,"batter of flour, coconut milk, egg, fried into cones with curry or sweet filling",snack,Unknown,Unknown
 Krob Kem,กรอบเค็ม,Rice flour+fish sauce+herbs,snack,Bangkok,Central
 Kratong Thong,กระทงทอง,Rice flour+fish+vegetables,snack,Bangkok,Central
 Krabong,กระบอง,Deep‑fried pumpkin sticks+batter+sugar,snack,Central provinces,Central
 Kuay Teow Lord,ก๋วยเตี๋ยวหลอด,Rice noodles+soy sauce+herbs,main dish,Bangkok,Central
 Kari Puff,กะหรี่ปั๊บ,Flour+curry powder+potato,snack,Bangkok,Central
-Karawek Sod Si,การเวกสอดสี,Unknown,snack,Unknown,Unknown
+Karawek Sod Si,การเวกสอดสี,"minced pork, minced shrimp, Chinese sausage, egg, rice flour, seasoning",snack,Unknown,Unknown
 Kung Ten,กุ้งเต้น,Live shrimp salad+lime+chilies+mint+fish sauce,snack,Nong Khai,Northeast
-Ko Kae,โก๋แก่,Unknown,snack,Unknown,Unknown
-Kai Sam Yang,ไก่สามอย่าง,Unknown,main dish,Unknown,Unknown
+Ko Kae,โก๋แก่,"peanuts, flour, sugar, coconut flavor, oil, salt",snack,Unknown,Unknown
+Kai Sam Yang,ไก่สามอย่าง,"dried shrimp, peanuts, lemongrass, shallots, ginger, chili, lime, fish sauce",main dish,Unknown,Unknown
 Kanom Kui Chai,ขนมกุยช่าย,Flour+chives+soy sauce,snack,Various,Various
 Kanom Kheng,ขนมเข่ง,Glutinous rice flour+sugar,dessert,Various,Various
 Kanom Jeeb,ขนมจีบ,Flour+pork+herbs,snack,Bangkok,Central
@@ -185,7 +185,7 @@ Kanom Tokyo,ขนมโตเกียว,Flour+custard+sugar,dessert,Bangkok,C
 Kanom Pang Ka Kai,ขนมปังขาไก่,Flour+sugar+butter,snack,Bangkok,Central
 Kanom Pang Na Moo,ขนมปังหน้าหมู,Pork+flour+herbs,snack,Bangkok,Central
 Kanom Pak Kad,ขนมผักกาด,Rice flour+vegetables+soy sauce,snack,Bangkok,Central
-Kanom Puang Pratad,ขนมพวงประทัด,Unknown,snack,Unknown,Unknown
+Kanom Puang Pratad,ขนมพวงประทัด,"spring roll skin, minced shrimp and pork, garlic, shallot, egg, deep-fried",snack,Unknown,Unknown
 Khao Kriap Kung,ข้าวเกรียบกุ้ง,Shrimp paste+flour+herbs,snack,Bangkok,Central
 Khao Kriap Pak Mo,ข้าวเกรียบปากหม้อ,Rice flour+pork+herbs,snack,Various,Various
 Khao Kriap Ya Na,ข้าวเกรียบยาหน้า,Rice flour+vegetables+herbs,snack,Various,Various
@@ -194,7 +194,7 @@ Khao Tom Mat,ข้าวต้มมัด,Glutinous rice+banana+coconut milk,d
 Khao Tang Na Tang,ข้าวตังหน้าตั้ง,Rice crackers+coconut milk+pork,snack,Various,Various
 Khao Pan,ข้าวพัน,Steamed rice‑flour sheet wrap+egg+bean sprouts+chives+minced pork,snack,Phrae,North
 Khao Mao,ข้าวเม่า,Glutinous rice+banana+coconut milk,dessert,Various,Various
-Khao Ho Tod,ข้าวห่อทอด,Unknown,snack,Unknown,Unknown
+Khao Ho Tod,ข้าวห่อทอด,"sticky rice parcels, pork or shrimp filling, coconut, deep-fried",snack,Unknown,Unknown
 Khao Niao Ping,ข้าวเหนียวปิ้ง,Glutinous rice+coconut milk,snack,Various,Various
 Kai Kwam,ไข่คว่ำ,Eggs+herbs+spices,main dish,Various,Various
 Khrong Khrang Krop,ครองแครงกรอบ,Rice flour+sugar+herbs,snack,Various,Various
@@ -204,8 +204,8 @@ Cho Muang,ช่อม่วง,Purple flower dumplings+minced pork+peanuts+arom
 Chun Pia,ชุนเปี๊ยะ,Teochew spring roll wrapper+vegetable/pork filling,snack,Bangkok,Central
 Salapao,ซาลาเปา,Flour+pork+sugar,snack,Various,Various
 Soup Asa Ren,ซุปอาสาเรน,Herbs+vegetables+egg,soup,Bangkok,Central
-Dok Kung,ดอกกุ้ง,Unknown,snack,Unknown,Unknown
-Dok Kai,ดอกไข่,Unknown,snack,Unknown,Unknown
+Dok Kung,ดอกกุ้ง,"bread or dough base, minced shrimp, garlic, fish sauce, seasoning, fried",snack,Unknown,Unknown
+Dok Kai,ดอกไข่,"flour, egg, coconut, shaped into flower form, fried or baked",snack,Unknown,Unknown
 Thung Thong,ถุงทอง,Flour+pork+vegetables,snack,Bangkok,Central
 Nam Nang,น้ำหนัง,Buffalo Skin+Dried Chilies+Shallots+Garlic+Fermented Shrimp Paste+Culantro,snack,Chiang Mai,North
 Pla Nam,ปลาแนม,Fish salad with toasted rice+coconut+herbs (served with rice crackers),snack,Bangkok,Central
@@ -222,7 +222,7 @@ Roti,โรตี,Flour+sugar+oil,snack,Various,Various
 Loba,โลบะ,Pork+herbs+spices,main dish,Southern provinces,South
 Vihok Long Rang,วิหคหลงรัง,Taro+Minced Pork+Quail Eggs+Garlic+Coriander Root,snack,Bangkok,Central
 Som Choon Yam,ส้มฉุน (ยำ),Herbs+fruit+fish sauce,salad,Various,Various
-Srong,สร่ง,Unknown,snack,Unknown,Unknown
+Srong,สร่ง,"minced pork or chicken, garlic, pepper, seasoning, wrapped in noodles, deep-fried",snack,Unknown,Unknown
 Sate,สะเต๊ะ,Meat+spices+peanut sauce,snack,Southern provinces,South
 Saku,สาคู,Tapioca Pearls+Minced Pork+Sweet Preserved Radish+Peanuts+Palm Sugar,snack,Bangkok,Central
 Moo Takro,หมูตะกร้อ,Minced Pork+Rice Vermicelli+Garlic+Coriander Root+Fish Sauce,snack,Bangkok,Central
