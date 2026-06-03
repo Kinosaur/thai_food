@@ -12,10 +12,10 @@ The dataset contains Thai dishes with English names, Thai names, ingredients, co
 
 | File | Description |
 | --- | --- |
-| `thailand_foods.csv` | Raw dataset with 325 rows and 6 columns: `en_name`, `th_name`, `ingredients`, `course`, `province`, and `region`. Some values are listed as `Unknown`. |
-| `dataPreprocessing/thaiDish.csv` | Intermediate preprocessing file with 325 rows. It removes the Thai-name column and keeps `en_name`, `ingredients`, `course`, `province`, and `region`. |
-| `dataPreprocessing/thai_dish_filled_complete.csv` | Cleaned dataset with 324 rows and 6 columns. Unknown ingredient, province, and region values were filled where possible, and a duplicate created during preprocessing was removed. |
-| `dataAnalysis/thai_dish_filled_complete.csv` | Analysis copy of the completed cleaned dataset. It matches the cleaned dataset used in the analysis notebook. |
+| `data/raw/thailand_foods.csv` | Raw dataset with 325 rows and 6 columns: `en_name`, `th_name`, `ingredients`, `course`, `province`, and `region`. Some values are listed as `Unknown`. |
+| `data/processed/thai_dish.csv` | Intermediate preprocessing file with 325 rows. It removes the Thai-name column and keeps `en_name`, `ingredients`, `course`, `province`, and `region`. |
+| `data/processed/thai_dish_filled_complete.csv` | Cleaned dataset with 324 rows and 6 columns. Unknown ingredient, province, and region values were filled where possible, and a duplicate created during preprocessing was removed. |
+| `data/processed/thai_dish_filled_complete_analysis_copy.csv` | Preserved analysis copy of the completed cleaned dataset. This copy was kept so no files were overwritten during project reorganization. |
 
 ## Cleaning and Preprocessing
 
@@ -53,19 +53,22 @@ The analysis notebook focuses on practical exploratory analysis questions:
 
 ```text
 thai_food/
-├── thailand_foods.csv
-├── dataPreprocessing/
+├── data/
+│   ├── raw/
+│   │   └── thailand_foods.csv
+│   └── processed/
+│       ├── thai_dish.csv
+│       ├── thai_dish_filled_complete.csv
+│       └── thai_dish_filled_complete_analysis_copy.csv
+├── notebooks/
 │   ├── dataCleaning.ipynb
-│   ├── thaiDish.csv
-│   └── thai_dish_filled_complete.csv
-├── dataAnalysis/
-│   ├── fullAnalysis.ipynb
-│   └── thai_dish_filled_complete.csv
+│   └── fullAnalysis.ipynb
+├── dashboard/
 ├── README.md
 └── KAGGLE_DATASET_DESCRIPTION.md
 ```
 
-Checkpoint folders, virtual document folders, Anaconda metadata, and temporary files are not part of the main project workflow.
+Checkpoint folders, virtual document folders, Anaconda metadata, and temporary files are not part of the main project workflow. No Power BI `.pbix` file was present in the scanned project tree; the `dashboard/` folder is ready for one if added later.
 
 ## How to Run the Notebooks
 
@@ -84,10 +87,10 @@ jupyter notebook
 
 4. Run the notebooks in this order:
 
-- `dataPreprocessing/dataCleaning.ipynb`
-- `dataAnalysis/fullAnalysis.ipynb`
+- `notebooks/dataCleaning.ipynb`
+- `notebooks/fullAnalysis.ipynb`
 
-The analysis notebook expects `thai_dish_filled_complete.csv` to be available inside the `dataAnalysis` folder.
+The cleaned dataset is stored at `data/processed/thai_dish_filled_complete.csv`. If rerunning notebook cells after this folder reorganization, use the updated CSV paths under `data/raw/` and `data/processed/`.
 
 ## Key Features
 

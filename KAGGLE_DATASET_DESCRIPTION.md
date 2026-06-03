@@ -12,10 +12,10 @@ This dataset is used for educational and analytics practice. The files in this p
 
 | File | Rows | Description |
 | --- | ---: | --- |
-| `thailand_foods.csv` | 325 | Raw dataset containing English dish names, Thai dish names, ingredients, course type, province, and region. |
-| `dataPreprocessing/thaiDish.csv` | 325 | Intermediate preprocessing file without the `th_name` column. |
-| `dataPreprocessing/thai_dish_filled_complete.csv` | 324 | Cleaned dataset with filled ingredient, province, and region values where possible. |
-| `dataAnalysis/thai_dish_filled_complete.csv` | 324 | Duplicate analysis copy of the cleaned dataset used by the analysis notebook. |
+| `data/raw/thailand_foods.csv` | 325 | Raw dataset containing English dish names, Thai dish names, ingredients, course type, province, and region. |
+| `data/processed/thai_dish.csv` | 325 | Intermediate preprocessing file without the `th_name` column. |
+| `data/processed/thai_dish_filled_complete.csv` | 324 | Cleaned dataset with filled ingredient, province, and region values where possible. |
+| `data/processed/thai_dish_filled_complete_analysis_copy.csv` | 324 | Preserved analysis copy of the cleaned dataset. |
 
 ## Column Descriptions
 
@@ -30,7 +30,7 @@ This dataset is used for educational and analytics practice. The files in this p
 | `province` | Province or broad province group associated with the dish. Some raw values are `Unknown` or `Various`. |
 | `region` | Thai region or broad regional label associated with the dish. Some raw values are `Unknown` or `Various`. |
 
-### `thaiDish.csv`
+### `thai_dish.csv`
 
 | Column | Description |
 | --- | --- |
